@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-01-components/static/css/main.9a5e918d.chunk.css",
+    "main.js": "/goit-react-hw-01-components/static/js/main.15d56b93.chunk.js",
+    "main.js.map": "/goit-react-hw-01-components/static/js/main.15d56b93.chunk.js.map",
+    "runtime-main.js": "/goit-react-hw-01-components/static/js/runtime-main.9c91bdbc.js",
+    "runtime-main.js.map": "/goit-react-hw-01-components/static/js/runtime-main.9c91bdbc.js.map",
+    "static/js/2.d6affba2.chunk.js": "/goit-react-hw-01-components/static/js/2.d6affba2.chunk.js",
+    "static/js/2.d6affba2.chunk.js.map": "/goit-react-hw-01-components/static/js/2.d6affba2.chunk.js.map",
+    "index.html": "/goit-react-hw-01-components/index.html",
+    "static/css/main.9a5e918d.chunk.css.map": "/goit-react-hw-01-components/static/css/main.9a5e918d.chunk.css.map",
+    "static/js/2.d6affba2.chunk.js.LICENSE.txt": "/goit-react-hw-01-components/static/js/2.d6affba2.chunk.js.LICENSE.txt",
+    "static/media/404_error.de5bd9ab.jpg": "/goit-react-hw-01-components/static/media/404_error.de5bd9ab.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c91bdbc.js",
+    "static/js/2.d6affba2.chunk.js",
+    "static/css/main.9a5e918d.chunk.css",
+    "static/js/main.15d56b93.chunk.js"
+  ]
+}
